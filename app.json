@@ -1,0 +1,12 @@
+{
+  "name": "MySense",
+  "displayName": "MySense",
+  "expo": {
+    "name": "MySense",
+    "slug": "MySense",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
